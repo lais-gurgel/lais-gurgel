@@ -4,8 +4,6 @@ Software Development Student
 
 ### Welcome to my profile
 
-Codes for contributing to life. Contributing to the community.
-
 ABOUT ME 
  - :heart: Passionate about technology and lifelong learning
  - :computer: Currently learning to become a full-stack developer
