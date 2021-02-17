@@ -9,7 +9,7 @@ ABOUT ME
  - :computer: Currently learning to become a full-stack developer
  - :heavy_check_mark: ShellScript, HTML, CSS, Javascript 
  - :earth_americas: interests in art. music. literature. travel and cycling
- - :mag: Available for freelance projects/internship opportunities!
+ - :mag: Available for job opportunities as a software developer!
 
 FIND ME ON
 
